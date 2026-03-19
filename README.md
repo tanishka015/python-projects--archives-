@@ -4,7 +4,7 @@ This repository contains my Python learning journey — building projects consis
 
 ## 📌 Projects
 
-- [ ] Simple Calculator  
+- [x] Simple Calculator  
 - [ ] Guess the Number  
 - [ ] Rock Paper Scissors  
 - [ ] Employee Salary Calculator  
