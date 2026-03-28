@@ -5,9 +5,9 @@ This repository contains my Python learning journey — building projects consis
 ## 📌 Projects
 
 - [x] Simple Calculator  
-- [ ] Guess the Number  
-- [ ] Rock Paper Scissors  
-- [ ] Employee Salary Calculator  
+- [x] Guess the Number  
+- [x] Rock Paper Scissors  
+- [x] Employee Salary Calculator  
 - [ ] Student Result Management System  
 - [ ] Password Manager  
 - [ ] Smart Budget  
