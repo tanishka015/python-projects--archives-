@@ -10,8 +10,8 @@ This repository represents my Python learning journey — building projects cons
 * [x] Guess the Number
 * [x] Rock Paper Scissors
 * [x] Employee Salary Calculator
-* [ ] Student Result Management System
-* [ ] Password Manager
+* [x] Student Result Management System
+* [x] Password Manager
 * [ ] Smart Budget
 * [ ] To Do List (FastAPI CRUD)
 
